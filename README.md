@@ -1,6 +1,6 @@
-### Hi there 👋, I am [Valentin](https://ValDV.github.io/)! 😁
+### Hi there 👋, I am [Valentin](https://github.com/ValDV), 😊
 
-Hello, my name is Valentin Rosier and I am a BTEC's student majoring in Computer Science and Networks.<br>I am learning programming languages like Javascript, C / C++ and cybersecurity.
+and I am a BTEC's student majoring in Computer Science and Networks.<br>I am learning programming languages like Javascript, C / C++ and cybersecurity.
 
 ### Languages and Tools:
 <br />
@@ -15,9 +15,9 @@ Hello, my name is Valentin Rosier and I am a BTEC's student majoring in Computer
 <br />
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ValDV&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" align = "center"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValDV&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" align = "center"/>
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ValDV&theme=midnight-purple&hide_border=true" align = "center"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ValDV&theme=dark&show_icons=true&hide_border=true&count_private=true" align = "center"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValDV&theme=dark&show_icons=true&hide_border=true&layout=compact" align = "center"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ValDV&theme=dark&hide_border=true" align = "center"/>
 </p>
 
 <br />
