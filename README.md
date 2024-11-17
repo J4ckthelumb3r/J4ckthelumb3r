@@ -15,7 +15,7 @@ and I am a BTEC's student majoring in Computer Science and Networks.<br>I am lea
 <br />
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ValDV&theme=dark&show_icons=true&hide_border=true&count_private=true" align = "center"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ValDV&theme=dark&show_icons=true&hide_border=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValDV&theme=dark&show_icons=true&hide_border=true&layout=compact" align = "center"/>
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ValDV&theme=dark&hide_border=true" align = "center"/>
 </p>
